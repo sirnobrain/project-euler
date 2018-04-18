@@ -1,0 +1,23 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirnobrain/project-euler.git"
+  },
+  "author": "srnbrn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirnobrain/project-euler/issues"
+  },
+  "homepage": "https://github.com/sirnobrain/project-euler#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  }
+}
